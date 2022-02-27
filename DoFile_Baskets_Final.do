@@ -58,18 +58,6 @@ des cv*213
 rename cv(##)?175 cv(##)*085
 rename cv(##)?213 cv(##)*085
 
-
-**-- Renaming variables to match waves--**
-* I realize that for the Module Politics and Values the suffix 15 was missing. There was a one-year gap between waves 7 and wave 8. Therefore, wave 8 was only measured in 2016. Whereas for the other two modules merged here wave 8 corresponds to 2015. I considered the option of renaming the Politics and Values variables to match the years.   
-
-/*rename cv16* cv15*
-rename cv17* cv16*
-rename cv18* cv17*
-rename cv19* cv18*
-rename cv20* cv19*
-rename cv21* cv20*
-drop ci21* */
-
 **-- Reshaping dataset from wide to long --** 
 
 * Renaming variables so the year comes at the end
